@@ -25,10 +25,10 @@ export const profileData = {
     { number: '∞', label: 'Ganas de Aprender' }
   ],
   contact: {
-    email: 'jlebot7@gmail.com',
+    email: 'juancamiloleal07@gmail.com',
     location: 'Colombia 🇨🇴',
     github: 'https://github.com/Jlebot7',
-    linkedin: 'https://linkedin.com/in/'
+    linkedin: 'https://www.linkedin.com/in/juan-camilo-l-075256139/'
   }
 };
 
