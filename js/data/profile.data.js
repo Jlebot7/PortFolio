@@ -31,3 +31,4 @@ export const profileData = {
     linkedin: 'https://linkedin.com/in/'
   }
 };
+

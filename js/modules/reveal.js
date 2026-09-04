@@ -26,3 +26,4 @@ export function initScrollReveal(elements, options = {}) {
 
   elements.forEach(el => revealObserver.observe(el));
 }
+

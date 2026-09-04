@@ -48,3 +48,4 @@ export function initTypingEffect(element, words = [], options = {}) {
 
   setTimeout(type, initialDelay);
 }
+

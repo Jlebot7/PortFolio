@@ -45,3 +45,4 @@ export const projectsData = [
     githubUrl: 'https://github.com/Jlebot7/Proyecto-Inventario-ACME'
   }
 ];
+

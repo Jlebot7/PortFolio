@@ -81,3 +81,4 @@ export function initActiveSectionObserver(sections, navItems) {
 
   sections.forEach(section => sectionObserver.observe(section));
 }
+

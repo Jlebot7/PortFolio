@@ -16,3 +16,4 @@ export function renderFooter() {
     </div>
   `;
 }
+
