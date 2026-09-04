@@ -1,0 +1,19 @@
+{
+  "name": "jlebot7-portfolio",
+  "version": "1.0.0",
+  "description": "Professional developer portfolio for Juan Camilo Leal with modular component architecture",
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "web-components",
+    "vanilla-js",
+    "responsive"
+  ],
+  "author": "Juan Camilo Leal",
+  "license": "MIT"
+}
